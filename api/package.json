@@ -1,0 +1,21 @@
+{
+  "name": "ibmi_connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bdkinc/knex-ibmi": "^0.0.35",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fast-xml-parser": "^4.3.1",
+    "itoolkit": "^1.0.1",
+    "needle": "^3.2.0",
+    "nodemon": "^3.0.1"
+  }
+}

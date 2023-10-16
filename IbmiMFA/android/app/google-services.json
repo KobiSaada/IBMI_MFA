@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "838487016900",
+    "project_id": "razleemfa",
+    "storage_bucket": "razleemfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838487016900:android:f19e4e52033a56d64c5091",
+        "android_client_info": {
+          "package_name": "com.ibmimfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838487016900-jock8n479ur8ojl5m31l68rppu0vkc7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfcKs1ghAm1pD4_k9bjkgvjEyZMPA58Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838487016900-jock8n479ur8ojl5m31l68rppu0vkc7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838487016900-vhg9pfcljs1t17dasu9k3onjhfgptbhc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.RazLeeMFA"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
