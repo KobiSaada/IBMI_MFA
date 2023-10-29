@@ -3,6 +3,7 @@
     "name": "IbmiMFA",
     "slug": "IbmiMFA",
     "version": "1.0.0",
+    "icon": "./assets/icons/razleeProfile.png",
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -10,13 +11,16 @@
       [
         "expo-notifications",
         {
-          "icon": "./assets/logo1.png",
+          "icon": "./assets/icons/razleeProfile.png",
           "color": "#ffffff",
           "mode": "production"
         }
-      ]
+      ],
+      "expo-localization"
     ],
-    "icon": "./assets/logo1.png",
+    "notification": {
+      "icon": "./assets/icons/razleeProfile.png"
+    },
     "extra": {
       "eas": {
         "projectId": "181a4717-abe7-4b00-8552-f5a60537c2be",
@@ -26,19 +30,20 @@
           "bundleIdentifier": "com.kobisaada.IbmiMFA"
         },
         "splash": {
-          "image": "./assets/logo1.png",
+          "image": "./assets/icons/razleeProfile.png",
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         },
         "android": {
+          "googleServicesFile": "./google-services.json",
           "adaptiveIcon": {
-            "foregroundImage": "./assets/logo1.png",
+            "foregroundImage": "./assets/icons/razleeProfile.png",
             "backgroundColor": "#ffffff"
           },
           "package": "com.kobisaada.IbmiMFA"
         },
         "web": {
-          "favicon": "./assets/logo1.png"
+          "favicon": "./assets/icons/razleeProfile.png"
         },
         "owner": "kobisaada"
       },

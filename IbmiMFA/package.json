@@ -9,20 +9,42 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@babel/preset-env": "^7.23.2",
+    "@babel/preset-react": "^7.22.15",
+    "@react-native-async-storage/async-storage": "^1.18.2",
+    "@react-native-async-storage/root": "github:react-native-community/async-storage",
     "@react-navigation/native": "^6.1.8",
     "@react-navigation/stack": "^6.3.18",
     "expo": "~49.0.13",
+    "expo-app-loading": "^2.1.1",
     "expo-constants": "~14.4.2",
+    "expo-device": "^5.6.0",
+    "expo-local-authentication": "^13.6.0",
+    "expo-localization": "~14.3.0",
     "expo-notifications": "~0.20.1",
+    "expo-router": "^2.0.9",
     "expo-splash-screen": "~0.20.5",
     "expo-status-bar": "~1.6.0",
+    "expo-updates": "~0.18.16",
+    "libphonenumber-js": "^1.10.48",
     "react": "18.2.0",
     "react-native": "0.72.5",
+    "react-native-country-flags": "^1.1.0",
     "react-native-firebase": "^5.6.0",
-    "react-native-linear-gradient": "^2.8.3"
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-localize": "^3.0.2",
+    "react-native-modal": "^13.0.1",
+    "react-native-phone-number-input": "^2.1.0",
+    "react-native-validator-form": "^1.0.0",
+    "react-native-vector-icons": "^10.0.0",
+    "react-phone-input-2": "^2.15.1",
+    "react-phone-number-input": "^3.3.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.23.2",
+    "babel-preset-react-native": "^4.0.1",
+    "react-native-dotenv": "^3.4.9"
   },
   "private": true
 }
