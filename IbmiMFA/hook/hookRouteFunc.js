@@ -1,10 +1,10 @@
 
 
-
+import { SERVER, PORT } from "@env"
 
 
 const sendApprovalToServer = async () => {
-  serverEndpoint = 'http://1.1.1.153:3333/receive-approval';
+  serverEndpoint = `${process.env.SERVER}:${process.env.PORT}/receive-approval`;
 
   try {
     const response = await fetch(serverEndpoint, {

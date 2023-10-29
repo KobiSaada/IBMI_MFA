@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, StyleSheet, Text ,button,TouchableOpacity} from 'react-native';
-import UserInfoCard from '../componnent/UserInfoCard'; // Import the UserInfoCard component
+import UserInfoCard from '../componnent/Cards/UserInfoCard'; // Import the UserInfoCard component
 import Layout from '../componnent/HomeHeader/layout';
 import PushNotification from '../componnent/pushnotification/handlepush';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
