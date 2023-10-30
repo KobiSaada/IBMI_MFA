@@ -3,11 +3,11 @@
 
 
 
-<img src = "https://github.com/KobiSaada/IBMI_MFA/assets/73976733/feec5833-621f-4513-90a1-5db5fcc22607 " width="1000" />
+<img src = "https://github.com/KobiSaada/IBMI_MFA/assets/73976733/feec5833-621f-4513-90a1-5db5fcc22607 " width="600" />
 
 
 
- # Screens #  :
+ # Screens :
 
 
 # Project Description:
@@ -68,10 +68,14 @@ react-native-phone-number-input - React Native library for phone number input.
 # Getting Started::zap:
 # Installation
 1. Clone the repository to your local machine.
+
 2. git clone https://github.com/KobiSaada/IBMI_MFA.git
 cd your-repo.
+
 3.Install dependencies for both the frontend and backend.
+
 4.Start the backend server(npm start).
+
 5.Start the app(expo start).
 
 
