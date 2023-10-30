@@ -8,9 +8,6 @@
 # Screens :
 <div>
   
-<img src="https://github.com/KobiSaada/IBMI_MFA/raw/main/screenshoots/059557f9-80df-492c-9683-43bc646cd062.png" width="200" height="350">
-
-
   <img src="screenshoots/67b8b3b5-a7be-4b9f-bfa9-658fb688f0a9.png" width="200" height="350">
   <img src="screenshoots/103cff75-37bc-44c3-a620-e78975bfa012.png" width="200" height="350">
   <img src="screenshoots/fade1979-92b1-4945-a213-c33022580c48.png" width="200" height="350">
@@ -19,6 +16,7 @@
   <img src="screenshoots/bba3ce26-e475-4568-9aab-e209cef79879.png" width="200" height="350">
   <img src="screenshoots/7c1d86a2-c0b8-4e5c-aece-6895872ef483.png" width="200" height="350">
   <img src="screenshoots/2e851b41-5ca7-46fc-b13c-61cc923cb500.png" width="200" height="350">
+  
 </div>
 
 
