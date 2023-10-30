@@ -1,5 +1,10 @@
-# IBMI_MFA <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/e6880386-722c-4bf4-9222-49099e7c3bd6" width="70" />
-![razleeProfile](https://github.com/KobiSaada/IBMI_MFA/raw/main/screenshoots/1d36894d-c11e-4666-89fd-26c47e666b26.png =70x)
+# IBMI_MFA <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/1d36894d-c11e-4666-89fd-26c47e666b26" width="70" />
+
+
+<p align="center">
+
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 
 <img src = "https://github.com/KobiSaada/IBMI_MFA/assets/73976733/feec5833-621f-4513-90a1-5db5fcc22607" width="800" height="290"/>
