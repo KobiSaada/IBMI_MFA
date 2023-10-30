@@ -3,7 +3,7 @@
 
 
 
-<img src = "https://github.com/KobiSaada/IBMI_MFA/assets/73976733/feec5833-621f-4513-90a1-5db5fcc22607" width="500" height="350"/>
+<img src = "https://github.com/KobiSaada/IBMI_MFA/assets/73976733/feec5833-621f-4513-90a1-5db5fcc22607" width="800" height="150"/>
 
 
 
