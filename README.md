@@ -13,7 +13,7 @@
   <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/103cff75-37bc-44c3-a620-e78975bfa012" width="200" height="350">
   <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/fade1979-92b1-4945-a213-c33022580c48" width="200" height="350">
   <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/9a3f70b4-cd79-4b69-af44-e77b283c37b4" width="200" height="350">
-  <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/3af37cd6-fa38-44b6-8c9a-eeb8e66a29f1" width="250" height="350">
+  <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/3af37cd6-fa38-44b6-8c9a-eeb8e66a29f1" width="350" height="200">
   <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/bba3ce26-e475-4568-9aab-e209cef79879" width="200" height="350">
   <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/7c1d86a2-c0b8-4e5c-aece-6895872ef483" width="200" height="350">
   <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/2e851b41-5ca7-46fc-b13c-61cc923cb500" width="200" height="350">
