@@ -1,11 +1,9 @@
 # IBMI_MFA <img src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/e6880386-722c-4bf4-9222-49099e7c3bd6" width="70" />
-![Image 1](screenshots/e6880386-722c-4bf4-9222-49099e7c3bd6.png)
-
-
 
 <img src = "https://github.com/KobiSaada/IBMI_MFA/assets/73976733/feec5833-621f-4513-90a1-5db5fcc22607" width="800" height="290"/>
 
 
+![google](https://github.com/KobiSaada/IBMI_MFA/assets/73976733/798ccec8-d00f-4de0-9b48-14419c177904)
 
  # Screens :
 <div>
