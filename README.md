@@ -8,7 +8,7 @@
 # Screens :
 <div>
   
-![Image Alt Text](https://github.com/KobiSaada/IBMI_MFA/raw/main/screenshoots/059557f9-80df-492c-9683-43bc646cd062.png =200x350)
+<img src="https://github.com/KobiSaada/IBMI_MFA/raw/main/screenshoots/059557f9-80df-492c-9683-43bc646cd062.png" width="200" height="350">
 
 
   <img src="screenshoots/67b8b3b5-a7be-4b9f-bfa9-658fb688f0a9.png" width="200" height="350">
