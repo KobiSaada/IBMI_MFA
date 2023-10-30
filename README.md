@@ -26,14 +26,13 @@ This project is developed by [Your Name] for Razlee Security Company. It is an a
 This README provides information on the project structure, installation, and usage.
 
 # Table of Contents :
-* Key Features
-* Project Structure
-* Installation
-* Usage
-* Testing
-* Contributing
-* License
-
+* [Key Features](#key-features)
+* [Project Structure](#project-structure)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Testing](#testing)
+* [Contributing](#contributing)
+* [License](#license)
 
 # Key Features::key:
 
