@@ -34,6 +34,7 @@ This README provides information on the project structure, installation, and usa
 * [Testing](#testing)
 * [Contributing](#contributing)
 * [License](#license)
+* [Author](#author)
 
 # Key Features::key:
 
