@@ -37,13 +37,13 @@ This README provides information on the project structure, installation, and usa
 
 # Key Features::key:
 
-MFA Integration: The app provides a seamless MFA experience with fingerprint authentication, enhancing the security of IBM i systems.
+**MFA Integration:** The app provides a seamless MFA experience with fingerprint authentication, enhancing the security of IBM i systems.
 
-Push Notifications: Users receive push notifications for authentication approval requests, ensuring a convenient and secure login process.
+**Push Notifications:** Users receive push notifications for authentication approval requests, ensuring a convenient and secure login process.
 
-IBM i System Integration: The app allows users to unlock their IBM i systems' screens, providing a unified access control solution.
+**IBM i System Integration:** The app allows users to unlock their IBM i systems' screens, providing a unified access control solution.
 
-MongoDB Database: The project uses MongoDB as the backend database to store user data, authentication logs, and other relevant information securely.
+**MongoDB Database:** The project uses MongoDB as the backend database to store user data, authentication logs, and other relevant information securely.
 
 # Project Structure
 # Technologies Used::mag:
