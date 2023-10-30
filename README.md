@@ -81,8 +81,10 @@ react-native-phone-number-input - React Native library for phone number input.
 # Getting Started::zap:
 # Installation
 1. Clone the repository to your local machine.
-2. '''git clone https://github.com/KobiSaada/IBMI_MFA.git'''
-cd your-repo.
+```
+git clone https://github.com/KobiSaada/IBMI_MFA.git.
+```
+
 3.Install dependencies for both the frontend and backend.
 
 4.Start the backend server(npm start).
@@ -92,8 +94,12 @@ cd your-repo.
 
 # Usage
 # Run:
-'''node activate-script.js ${PhoneNumber}'''
-'''curl -X POST http://localhost:yourPort/activate-script/${PhoneNumber}'''
+ ```
+node.js node activate-script.js ${PhoneNumber}
+```
+```
+curl -X POST http://localhost:yourPort/activate-script/${PhoneNumber}
+```
 or from local with expo start and npm start.
 
 # Contributing
