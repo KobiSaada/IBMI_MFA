@@ -3,11 +3,11 @@
 
 
 
-![mfa2](https://github.com/KobiSaada/IBMI_MFA/assets/73976733/feec5833-621f-4513-90a1-5db5fcc22607)
+<img src = "https://github.com/KobiSaada/IBMI_MFA/assets/73976733/feec5833-621f-4513-90a1-5db5fcc22607 " width="200" />
 
 
 
-# Screens :
+##Screens##  :
 
 
 # Project Description:
