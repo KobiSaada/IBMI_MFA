@@ -23,7 +23,7 @@
 
 # Project Description:
 # MFA Security App
-This project is developed by [Your Name] for Razlee Security Company. It is an application that offers multi-factor authentication (MFA) with features including fingerprint authentication, push notifications to mobile devices for approval, and unlocking the screen of an IBM i system. The project uses React Native, Expo, and various libraries for the front end, while the back end is powered by Node.js and MongoDB.
+This project is developed by Kobi Saada for Razlee Security Company. It is an application that offers multi-factor authentication (MFA) with features including fingerprint authentication, push notifications to mobile devices for approval, and unlocking the screen of an IBM i system. The project uses React Native, Expo, and various libraries for the front end, while the back end is powered by Node.js and MongoDB.
 This README provides information on the project structure, installation, and usage.
 
 # Table of Contents :
