@@ -4,6 +4,9 @@
 
 <img src = "https://github.com/KobiSaada/IBMI_MFA/assets/73976733/5938b6ab-874a-4c9a-b1ad-b6e8f30703a6" width="800" height="290"/>
 
+# Design :
+<img width="801" alt="Screen Shot 2023-11-06 at 16 03 14" src="https://github.com/KobiSaada/IBMI_MFA/assets/73976733/eb61ff80-bc10-4110-a85e-c2eb2007431a">
+
 
 
 # Screens :
